@@ -100,7 +100,7 @@ author:
   location         : "Somewhere in Seoul"
   email            : "frgrkr44@gmail.com"
   links:
-    - label: "Email"
+    - label: "E-mail me :)"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
